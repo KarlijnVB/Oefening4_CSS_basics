@@ -1,0 +1,40 @@
+body{
+    color: rgb(4, 112, 107);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.black-border{
+    border: 3px solid rgb(223, 17, 223);
+}
+
+#green_background{
+    background-color: rgb(208, 159, 211);
+}
+
+.belangrijk{
+    font-size: xx-large;
+}
+
+li{
+    line-height: 200%;
+}
+figcaption{
+    font-style:italic;
+}
+h3{
+ line-height: 0mm;
+}
+.foto{
+    border: 1px solid #999;
+	background-color: #fcfcfc;
+	padding: 4px;
+}
+header{
+    text-align: center;
+}
+.quote{
+    font-style: italic;    
+    margin: 1em 3em;
+    color: #999;
+    border-left: 2px solid #999;
+    padding-left: 1em; 
+}
